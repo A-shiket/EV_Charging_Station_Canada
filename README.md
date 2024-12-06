@@ -39,20 +39,20 @@ This analysis highlights Canada’s readiness to support the growing EV market, 
 
 ### **Visualizations**
 1. **Growth of EV Charging Stations Over the Years**  
-   ![Line Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/line_chart_ev_growth%20(1).png
+   ![Line Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/line_chart_ev_growth%20(1).png
 
 2. **Number of EV Charging Stations by Province**  
-   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/bar_chart_province%20(1).png
+   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/bar_chart_province%20(1).png
 
 3. **Connector Counts Across EV Stations**  
-   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/connector_chart%20(1).png
+   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/connector_chart%20(1).png
 
 4. **Top 5 Charging Networks by Province (Heatmap)**  
-   ![Heatmap].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/heatmap_networks%20(1).png
+   ![Heatmap].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/heatmap_networks%20(1).png
 
 5. **Top 5 Cities by Charging Infrastructure**  
-   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/city_bar_chart_level_2%20(1).png
-   https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/city_bar_chart%20(1).png
+   ![Bar Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/city_bar_chart_level_2%20(1).png
+   https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/Visualization/city_bar_chart%20(1).png
 
 ---
 
