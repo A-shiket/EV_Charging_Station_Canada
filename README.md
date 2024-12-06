@@ -59,4 +59,4 @@ This analysis highlights Canada’s readiness to support the growing EV market, 
 ### **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/EV_Charging_Station_Canada.git
+   git clone https://github.com/A-shiket/EV_Charging_Station_Canada.git
