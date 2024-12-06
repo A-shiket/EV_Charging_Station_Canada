@@ -39,7 +39,7 @@ This analysis highlights Canada’s readiness to support the growing EV market, 
 
 ### **Visualizations**
 1. **Growth of EV Charging Stations Over the Years**  
-   ![Line Chart]
+   ![Line Chart].https://github.com/A-shiket/EV_Charging_Station_Canada/blob/main/line_chart_ev_growth%20(1).png
 
 2. **Number of EV Charging Stations by Province**  
    ![Bar Chart]
